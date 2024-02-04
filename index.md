@@ -6,7 +6,7 @@ Someone asked for this in the comments section on the Guardian
 
 2016 - Dec 2023
 
-https://www.theguardian.com/food/series/jay-rayner-on-restaurants
+[Jay's page](https://www.theguardian.com/food/series/jay-rayner-on-restaurants)
 
 ## Updates
 
