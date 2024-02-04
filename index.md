@@ -18,3 +18,6 @@ I might do something fancy with the data, like automatically update, show restau
 
 [Data](https://github.com/eagerterrier/jay-rayners-reviews-in-maps/blob/main/articleData.csv)
 
+## The code
+
+[Github Repo](https://github.com/eagerterrier/jay-rayners-reviews-in-maps/)
